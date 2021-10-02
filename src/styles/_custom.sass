@@ -1,0 +1,52 @@
+.banner-principal__img
+  img
+    animation: float 6s ease-in-out infinite
+
+@keyframes float
+  0%
+    transform: translatey(0px)
+  50%
+    transform: translatey(-20px)
+  100%
+    transform: translatey(0px)
+  
+.banner-principal__img img
+  width: 60%
+  max-width: 60%
+  margin-left: auto
+
+.cajon.color-primario, .bloque-texto-d.color-primario:before, .color-primario-25
+  background-color: lighten($color-primario , 25%)
+
+.color-acento-contenido-25, .bloque-texto-d.color-acento-contenido:before
+  background-color: lighten($color-acento-contenido , 25%)
+
+.cajon.color-secundario
+  background-color:#D4EEFB
+  &::before
+    background-color: #4099f2
+
+.bloque-texto-a.color-primario
+  background-color: $color-primario
+  &::before
+    background-color: #E8E8E8
+
+.bloque-texto-d 
+  border-top: 0px
+
+.bloque-texto-d__texto *
+  display: unset
+
+.bloque-texto-d i:last-of-type
+  vertical-align: top
+
+.bloque-texto-d:before
+  left: 25%
+
+.bloque-texto-a.color-secundario:before
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-primario
+  background-color: #E8E8E8
+  &::before
+    background-color: #53BCED

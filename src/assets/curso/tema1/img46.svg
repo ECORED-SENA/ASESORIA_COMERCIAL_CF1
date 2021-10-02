@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1167.666" height="644.436" viewBox="0 0 1167.666 644.436">
+  <g id="Grupo_68483" data-name="Grupo 68483" transform="translate(-79.572 -93.824)">
+    <rect id="Rectángulo_18679" data-name="Rectángulo 18679" width="1167.666" height="644.436" rx="23.382" transform="translate(79.572 93.824)" fill="#bde9f9"/>
+    <line id="Línea_265" data-name="Línea 265" x2="604.061" transform="translate(420.221 198.653)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_266" data-name="Línea 266" x2="181.105" transform="translate(420.221 265.921)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_267" data-name="Línea 267" x2="183.887" transform="translate(420.221 364.638)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_268" data-name="Línea 268" x2="60.546" transform="translate(420.221 499.256)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_269" data-name="Línea 269" x2="60.546" transform="translate(684.265 499.256)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_270" data-name="Línea 270" x2="118.261" transform="translate(906.021 499.256)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_271" data-name="Línea 271" x2="241.029" transform="translate(790.195 364.638)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_272" data-name="Línea 272" x2="241.029" transform="translate(790.195 265.684)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_273" data-name="Línea 273" x2="428.268" transform="translate(596.014 623.399)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18680" data-name="Rectángulo 18680" width="149.217" height="61.839" rx="14.962" transform="translate(1031.224 591.746)" fill="#a45347"/>
+    <text id="Consumidor" transform="translate(1050.103 609.369)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Consumidor</tspan></text>
+    <rect id="Rectángulo_18681" data-name="Rectángulo 18681" width="149.217" height="61.839" rx="14.962" transform="translate(1031.224 474.02)" fill="#a45347"/>
+    <text id="Consumidor-2" data-name="Consumidor" transform="translate(1050.103 491.643)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Consumidor</tspan></text>
+    <rect id="Rectángulo_18682" data-name="Rectángulo 18682" width="149.217" height="61.839" rx="14.962" transform="translate(1031.224 336.281)" fill="#a45347"/>
+    <text id="Consumidor-3" data-name="Consumidor" transform="translate(1050.103 353.904)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Consumidor</tspan></text>
+    <rect id="Rectángulo_18683" data-name="Rectángulo 18683" width="149.217" height="61.839" rx="14.962" transform="translate(1031.224 157.064)" fill="#a45347"/>
+    <text id="Consumidor-4" data-name="Consumidor" transform="translate(1050.103 174.687)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Consumidor</tspan></text>
+    <rect id="Rectángulo_18684" data-name="Rectángulo 18684" width="149.217" height="61.839" rx="14.962" transform="translate(1031.224 232.992)" fill="#a45347"/>
+    <text id="Consumidor-5" data-name="Consumidor" transform="translate(1050.103 250.616)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Consumidor</tspan></text>
+    <g id="Grupo_68482" data-name="Grupo 68482">
+      <rect id="Rectángulo_18685" data-name="Rectángulo 18685" width="363.652" height="61.839" rx="14.962" transform="translate(126.437 697.371) rotate(-90)" fill="#073360"/>
+      <text id="Indirecto" transform="translate(144.06 560.329) rotate(-90)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Indirecto</tspan></text>
+      <rect id="Rectángulo_18686" data-name="Rectángulo 18686" width="182.072" height="61.839" rx="14.962" transform="translate(126.437 291.094) rotate(-90)" fill="#073360"/>
+      <text id="Directo" transform="translate(144.06 234.896) rotate(-90)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Directo</tspan></text>
+    </g>
+    <rect id="Rectángulo_18687" data-name="Rectángulo 18687" width="172.007" height="61.839" rx="14.962" transform="translate(518.104 552.666)" fill="#e2cb5e"/>
+    <rect id="Rectángulo_18688" data-name="Rectángulo 18688" width="172.007" height="61.839" rx="14.962" transform="translate(254.913 169.139)" fill="#e9d886"/>
+    <text id="Fabricante" transform="translate(285.96 184.781)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Fabricante</tspan></text>
+    <rect id="Rectángulo_18689" data-name="Rectángulo 18689" width="172.007" height="61.839" rx="14.962" transform="translate(254.913 333.719)" fill="#e9d886"/>
+    <text id="Fabricante-2" data-name="Fabricante" transform="translate(285.96 349.361)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Fabricante</tspan></text>
+    <text id="Física" transform="translate(297.438 130.678)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Física</tspan></text>
+    <text id="Digital" transform="translate(297.438 250.644)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Digital</tspan></text>
+    <rect id="Rectángulo_18690" data-name="Rectángulo 18690" width="172.007" height="61.839" rx="14.962" transform="translate(254.913 471.458)" fill="#e9d886"/>
+    <text id="Fabricante-3" data-name="Fabricante" transform="translate(285.96 487.1)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Fabricante</tspan></text>
+    <text id="Largo" transform="translate(297.438 424.765)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Largo</tspan></text>
+    <text id="Corto" transform="translate(297.438 300.003)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Corto</tspan></text>
+    <rect id="Rectángulo_18691" data-name="Rectángulo 18691" width="172.007" height="61.839" rx="14.962" transform="translate(254.913 602.954)" fill="#e9d886"/>
+    <text id="Fabricante-4" data-name="Fabricante" transform="translate(285.96 618.596)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Fabricante</tspan></text>
+    <text id="Doble" transform="translate(297.438 556.261)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Doble</tspan></text>
+    <rect id="Rectángulo_18692" data-name="Rectángulo 18692" width="181.565" height="61.839" rx="14.962" transform="translate(513.325 633.873)" fill="#6ea3d9"/>
+    <text id="Mayorista" transform="translate(550.004 571.169)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Mayorista</tspan></text>
+    <rect id="Rectángulo_18693" data-name="Rectángulo 18693" width="172.007" height="61.839" rx="14.962" transform="translate(518.104 471.458)" fill="#e2cb5e"/>
+    <text id="Mayorista-2" data-name="Mayorista" transform="translate(550.004 489.961)" fill="#073360" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Mayorista</tspan></text>
+    <text id="Minorista" transform="translate(550.004 652.078)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Minorista</tspan></text>
+    <rect id="Rectángulo_18694" data-name="Rectángulo 18694" width="181.565" height="61.839" rx="14.962" transform="translate(609.095 333.719)" fill="#6ea3d9"/>
+    <text id="Minorista-2" data-name="Minorista" transform="translate(645.774 351.923)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Minorista</tspan></text>
+    <rect id="Rectángulo_18695" data-name="Rectángulo 18695" width="181.565" height="61.839" rx="14.962" transform="translate(609.095 234.765)" fill="#6ea3d9"/>
+    <text id="Internet" transform="translate(658.259 252.969)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Internet</tspan></text>
+    <rect id="Rectángulo_18696" data-name="Rectángulo 18696" width="155.826" height="61.839" rx="14.962" transform="translate(750.195 471.458)" fill="#6ea3d9"/>
+    <text id="Minorista-3" data-name="Minorista" transform="translate(777.482 489.662)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Minorista</tspan></text>
+  </g>
+</svg>

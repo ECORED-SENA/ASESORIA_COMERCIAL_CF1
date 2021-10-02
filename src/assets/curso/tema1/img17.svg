@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="303" viewBox="0 0 576 303">
+  <g id="Grupo_80244" data-name="Grupo 80244" transform="translate(6030.5 4490)">
+    <rect id="Rectángulo_674" data-name="Rectángulo 674" width="576" height="5" transform="translate(-6030.5 -4490)" fill="#db6e5f"/>
+    <g id="Grupo_66025" data-name="Grupo 66025" transform="translate(-6035.445 -6913.358)">
+      <rect id="Rectángulo_5226" data-name="Rectángulo 5226" width="4" height="58.619" transform="translate(290.947 2474.358)" fill="#6e3730"/>
+      <g id="Grupo_66024" data-name="Grupo 66024">
+        <path id="Trazado_144070" data-name="Trazado 144070" d="M276.587,2519.723l2.93-2.729,13.426,14.447,13.43-14.447,2.93,2.729-16.359,17.592Z" fill="#6e3730"/>
+      </g>
+    </g>
+    <g id="Grupo_66026" data-name="Grupo 66026" transform="translate(-6035.445 -6793.358)">
+      <rect id="Rectángulo_5226-2" data-name="Rectángulo 5226" width="4" height="58.619" transform="translate(290.947 2474.358)" fill="#6e3730"/>
+      <g id="Grupo_66024-2" data-name="Grupo 66024">
+        <path id="Trazado_144070-2" data-name="Trazado 144070" d="M276.587,2519.723l2.93-2.729,13.426,14.447,13.43-14.447,2.93,2.729-16.359,17.592Z" fill="#6e3730"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_5223" data-name="Rectángulo 5223" width="576" height="5" transform="translate(-6030.5 -4365)" fill="#db6e5f"/>
+    <rect id="Rectángulo_5225" data-name="Rectángulo 5225" width="576" height="5" transform="translate(-6030.5 -4253)" fill="#db6e5f"/>
+    <rect id="Rectángulo_675" data-name="Rectángulo 675" width="576" height="61" transform="translate(-6030.5 -4485)" fill="#e8e8e8"/>
+    <rect id="Rectángulo_5222" data-name="Rectángulo 5222" width="576" height="61" transform="translate(-6030.5 -4360)" fill="#e8e8e8"/>
+    <rect id="Rectángulo_5224" data-name="Rectángulo 5224" width="576" height="61" transform="translate(-6030.5 -4248)" fill="#e8e8e8"/>
+    <text id="Alquiler" transform="translate(-6005.5 -4468)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="95.687" y="19">Alquiler</tspan></text>
+    <text id="Pensión" transform="translate(-6005.5 -4343)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="93.665" y="19">Pensión</tspan></text>
+    <text id="Honorarios" transform="translate(-6005.5 -4231)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="81.584" y="19">Honorarios</tspan></text>
+    <text id="Apartamento" transform="translate(-5700.5 -4468)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="54.477" y="19">Apartamento</tspan></text>
+    <text id="Colegios" transform="translate(-5700.5 -4343)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="72.05" y="19">Colegios</tspan></text>
+    <text id="Servicios_profesionales" data-name="Servicios profesionales" transform="translate(-5700.5 -4231)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="13.884" y="19">Servicios profesionales</tspan></text>
+    <line id="Línea_53" data-name="Línea 53" y2="61" transform="translate(-5743.5 -4485)" fill="none" stroke="#c5c4c4" stroke-width="2"/>
+    <line id="Línea_227" data-name="Línea 227" y2="61" transform="translate(-5743.5 -4360)" fill="none" stroke="#c5c4c4" stroke-width="2"/>
+    <line id="Línea_228" data-name="Línea 228" y2="61" transform="translate(-5743.5 -4248)" fill="none" stroke="#c5c4c4" stroke-width="2"/>
+  </g>
+</svg>
