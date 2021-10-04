@@ -174,12 +174,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -210,141 +210,187 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
+    },
+    {
+      referencia:
+        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder.',
+      link: 'https://www.lifeder.com/tecnicas-instrumentos-recoleccion-datos/',
+    },
+    {
+      referencia:
+        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva.',
+      link: 'https://www.mejoracompetitiva.es/2015/09/que-es-estrategia/',
+    },
+    {
+      referencia: 'Goñi, Á., N. (2008). El precio. Pearson Prentice Hall.',
+    },
+    {
+      referencia:
+        'Kendall, K., y Kendall, J. (2011). Análisis y diseño de sistemas. Pearson Education.',
+    },
+    {
+      referencia:
+        'Kerin. H., y Rudelius, W. (2014). Marketing. McGraw Hill Education. 11a Edición.',
+    },
+    {
+      referencia:
+        'Kotler, P., y Armstrong, G. (2013). Fundamentos de marketing. Pearson Prentice Hall.',
+    },
+    {
+      referencia:
+        'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
+    },
+    {
+      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://es.slideshare.net/guillermopereda/mtodos-y-tcnicas-de-investigacin-79785371',
+    },
+    {
+      referencia: 'QuestioPro. (s.f.). Encuesta.',
+      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Santesmases, M., Valderrey, F., y Sánchez, A. (2014). Fundamentos de mercadotecnia. Grupo Editorial Patria.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de marketing. McGraw Hill Education.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Base de datos',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Encuesta',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        '“Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas” (QuestionPro, s.f.).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Entrevista',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Mercadeo ',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        '“Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes” (Kotler y Armstrong, 2013, p. 35).',
     },
     {
-      termino: 'Moda',
+      termino: 'Mercado',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        '“El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio” (Quiroga, 2020).',
     },
     {
-      termino: 'DIseño',
+      termino: 'Observación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        '“Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis” (Pereda, 2017).',
     },
     {
-      termino: 'Diseña',
+      termino: 'Posicionamiento',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        '“Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores” (Kotler y Armstrong, 2013).',
     },
     {
-      termino: 'Tipología',
+      termino: 'Segmentación',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Ventas',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'actividades relacionadas con la venta o la cantidad de bienes vendidos en un período de tiempo determinado. La entrega de un servicio por un costo también se considera una venta.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'QuestioPro. (s.f.). El mercado y las necesidades del cliente en la investigación (Parte I).',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://www.questionpro.com/blog/es/mercado-y-necesidades-del-cliente/',
+    },
+    {
+      texto: 'Coll, F. (2021). Mezcla de mercadotecnia. Economipedia.',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://economipedia.com/definiciones/mezcla-de-mercadotecnia.html',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Rodríguez, I., Maraver, G. & Martínez, F. (s.f.). Canales de distribución. Universitat Oberta de Catalunya.',
+      tipo: 'Artículo',
+      link:
+        'http://cv.uoc.edu/annotation/e278f6575e9eb38a49450e18f778004e/607706/PID_00195275/PID_00195275.html',
+    },
+    {
+      texto: 'Comercionista. (2020). Tipos de mayoristas.',
+      tipo: 'Otro (Página web)',
+      link: 'https://www.comercionista.com/compras/que-es-un-mayorista-tipos/',
+    },
+    {
+      texto: 'Quiroga, M. (2020). Mercado. Economipedia.',
+      tipo: 'Otro (Página web)',
+      link: 'https://economipedia.com/definiciones/mercado.html',
+    },
+    {
+      texto: 'Máxima, A. (2019). Características del mercado.',
+      tipo: 'Otro (Página web)',
+      link: 'https://www.caracteristicas.co/mercado/#ixzz74Q1rHzhJ',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'WixBlog. (2020). Mercado meta: Qué es, como definirlo y ejemplos.',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://es.wix.com/blog/2020/12/mercado-meta-que-es-como-definirlo-y-ejemplos',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de marketing?',
+      tipo: 'Otro (Página web)',
+      link: 'https://vilmanunez.com/segmentacion-del-mercado/',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'QuestionPro. (s.f.). ¿Qué es la recolección de datos y cómo realizarla?',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://www.questionpro.com/blog/es/recoleccion-de-datos-para-investigacion/',
+    },
+    {
+      texto: 'Westreicher, G. (2021). Recolección de datos. Economipedia.',
+      tipo: 'Otro (Página web)',
+      link: 'https://economipedia.com/definiciones/recoleccion-de-datos.html',
+    },
+    {
+      texto: 'QuestioPro. (s.f.). Encuesta.',
+      tipo: 'Otro (Página web)',
+      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
+    },
+    {
+      texto:
+        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico. Investigación en Educación Médica, 2(7), 162-167.',
+      tipo: 'Artículo',
+      link:
+        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
+    },
+    {
+      texto:
+        'Nota Tecnológica. (s.f.). Estructura de una base de datos: normalización y más.',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://notatecnologica.com/tecnologia/estructura-de-una-base-de-datos/ ',
     },
   ],
   creditos: {

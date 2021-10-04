@@ -11,14 +11,12 @@
     
     .row.justify-content-center.mb-4
       .col-lg-10
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4.mb-4(data-aos="fade-right")
           p A continuación, puede observar un video que refiere la introducción de este componente formativo que trata sobre 
             strong identificación de nichos de mercado: 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
-    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XRlWxr_6H1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

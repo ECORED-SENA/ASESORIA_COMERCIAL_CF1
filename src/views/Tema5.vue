@@ -11,13 +11,13 @@
     .row.justify-content-center.mb-4
       .col-lg-6.mb-4.mb-lg-0
         p.mb-4 Las bases de datos son una herramienta fundamental en el entorno informático hoy en día y tienen aplicación prácticamente en todos los campos como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.
-        .cajon.color-secundario.p-4
+        .cajon.color-secundario.p-4(data-aos="fade-right")
           p Una base de datos es un conjunto de datos estructurado y almacenado de forma sistemática para facilitar su posterior utilización. Igualmente, es una colección organizada de información estructurada, o datos, típicamente almacenados electrónicamente en un sistema de computadora.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         img(src='@/assets/curso/tema5/img01.png')
 
     .row.mb-4
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="flip-up")
         img(src='@/assets/curso/tema5/img02.svg')
     
     p.mb-4 Cada sistema de base de datos tiene tipos de campos que pueden ser similares o diferentes; entre los más comunes se pueden nombrar:
@@ -26,7 +26,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img03.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -38,7 +38,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img04.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -50,7 +50,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img05.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -62,7 +62,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img06.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -74,7 +74,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img07.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -86,7 +86,7 @@
       .col-lg-10
         figure.mb-3
           img(src='@/assets/curso/tema1/img99.svg')
-        .tarjeta-avatar-b.mb-4
+        .tarjeta-avatar-b.mb-4(data-aos="fade-right")
           .tarjeta-avatar-b__img.p-2
             img(src='@/assets/curso/tema5/img08.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
@@ -104,22 +104,22 @@
             .col-lg-6.mb-4.mb-lg-0
               ul.lista-ul--color
                 li 
-                  i.fas.fa-bullhorn
+                  i.fas.fa-angle-double-right
                   | Microsoft Access. También conocido como MS Access, es un sistema de gestión de bases de datos (SGBD) incluido en el paquete de programas de Microsoft Office. Igualmente un gestor de datos que recopila información relativa a un asunto o propósito particular, como el seguimiento de pedidos de clientes o el mantenimiento de una colección de música.
                 li 
-                  i.fas.fa-bullhorn
+                  i.fas.fa-angle-double-right
                   | Oracle.
                 li 
-                  i.fas.fa-bullhorn
+                  i.fas.fa-angle-double-right
                   | DB2 de IBM.
                 li 
-                  i.fas.fa-bullhorn
+                  i.fas.fa-angle-double-right
                   | SQL Server.
-            .col-lg-6
+            .col-lg-6(data-aos="fade-left")
               img(src='@/assets/curso/tema5/img09.svg')
 
     Separador
-    #t_5_1.titulo-segundo
+    #t_5_1.titulo-segundo(data-aos="fade-right")
       .h3 5.1 Tipos de bases de datos
     
     p.mb-4 Hay muchos tipos diferentes de bases de datos, pero la mejor base de datos para una organización específica depende de cómo la organización pretende utilizar los datos; así se encuentran:
@@ -139,7 +139,7 @@
           p El modelo extiende las capacidades de las bases de datos relacionales, de tal modo que estas pueden contener objetos, permitiendo así una integración más fácil con la propia arquitectura de los programas empleados para el manejo de la base de datos, en caso de que estos hayan sido desarrollados mediante programación orientada a objetos.
 
     Separador
-    #t_5_2.titulo-segundo
+    #t_5_2.titulo-segundo(data-aos="fade-right")
       .h3 5.2 Estructura de una base de datos
     
     .row.justify-content-center.mb-4
@@ -148,7 +148,7 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img10.svg')})`}"
           )
-          .bloque-texto-g__texto.p-5
+          .bloque-texto-g__texto.p-5(data-aos="fade-left")
             p.mb-4 La denominación más completa de la estructura de una base de datos corresponde a cada uno de los elementos, formatos y normas que la integran y permiten su óptimo funcionamiento, permitiendo un almacenamiento eficiente de los datos, sin que estos se puedan perder durante la actuación del programa en el modo digital.
             p.mb-4 Permiten almacenar, manipular y ordenar los datos, que son materia prima en cualquier sistema de información. 
             p.mb-0 También admiten unas operaciones básicas: adicionar, realizar búsquedas, recorrer y eliminar datos. 
@@ -202,7 +202,7 @@
           img(src='@/assets/curso/tema5/img15.svg')
 
     Separador
-    #t_5_3.titulo-segundo
+    #t_5_3.titulo-segundo(data-aos="fade-right")
       .h3 5.3 Manejo de una base de datos
     
     p.mb-4 Una base de datos necesita desarrollarse en una herramienta específica, puede hacerse de manera elemental en un Excel o utilizar un software de base de datos. La Base de Datos de Mercadeo (BDM) es la columna vertebral de cualquier sistema de información y más aún en programas de mercadeo uno a uno. Para manejar una base de datos es importante conocer el proceso que lleva a construirla y manejarla.
@@ -225,13 +225,13 @@
             p.mb-4 Para poder realizar este cálculo se necesita tener registrado en una tabla un registro por cada parada de los servicios con los siguientes datos:
             ul.lista-ul--color
               li 
-                i.fas.fa-bullhorn
+                i.fas.fa-star-half-alt
                 | Servicio que ha parado.
               li 
-                i.fas.fa-bullhorn
+                i.fas.fa-star-half-alt
                 |  Motivo de la parada (mantenimiento, actualización, falla, etc.).
               li 
-                i.fas.fa-bullhorn
+                i.fas.fa-star-half-alt
                 | Duración de la parada (en minutos o segundos).
           .col-md-5
             img(src='@/assets/curso/tema5/img18.svg')
@@ -255,16 +255,16 @@
           p Perfeccionar el diseño. Analice el diseño en busca de errores. Cree las tablas y agregue unos cuantos registros de datos de ejemplo. Compruebe si puede obtener los resultados que quiere de las tablas. Haga algunos ajustes en el diseño, si es necesario. Ejemplos de relaciones que expresan cardinalidad:
           ul.lista-ul--color
             li 
-              i.fas.fa-bullhorn
+              i.fas.fa-angle-double-right
               | Un policía (entidad) tiene (relación) un arma (entidad) siempre y cuando no realice funciones de oficina, pudiendo entonces tenerla o no asignada. Es una relación 0:1.
             li 
-              i.fas.fa-bullhorn
+              i.fas.fa-angle-double-right
               | UCada esposo (entidad) está casado (relación) con una única esposa (entidad) y viceversa. Es una relación 1:1.
             li 
-              i.fas.fa-bullhorn
+              i.fas.fa-angle-double-right
               | UUna factura (entidad) se emite (relación) a un cliente (entidad) y sólo una, pero una cliente puede tener varias facturas emitidas a su nombre. Todas las facturas se emiten a nombre de alguien. Es una relación 1: N.
             li 
-              i.fas.fa-bullhorn
+              i.fas.fa-angle-double-right
               | UUn cliente (entidad) puede comprar (relación) varios servicios (entidad) y un servicio puede ser comprado por varios clientes distintos. Es una relación N:M.
         .row.p-4(titulo="Paso 8")
           .col-md-6.mb-4.mb-lg-0  
