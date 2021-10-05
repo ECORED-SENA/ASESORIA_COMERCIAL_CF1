@@ -159,7 +159,7 @@
         .row.justify-content-center
           .col-md-11
             h4 ● Primitivas
-            p.mb-4 compuestas por otras estructuras de datos así:
+            p.mb-4 Compuestas por otras estructuras de datos así:
             ImagenInfografica.color-acento-contenido.mb-5
               template(v-slot:imagen)
                 figure
@@ -183,7 +183,7 @@
         .row.justify-content-center
           .col-md-11
             h4 ●	No primitivas o simples:
-            p se construyen a partir de estructuras primitivas y son cadenas, arreglos y registros. Se componen en lineales y no lineales.
+            p Se construyen a partir de estructuras primitivas y son cadenas, arreglos y registros. Se componen en lineales y no lineales.
             .row.mb-4
               .col-lg-6.mb-4.mb-lg-0
                 img(src='@/assets/curso/tema5/img12.svg')
@@ -259,13 +259,13 @@
               | Un policía (entidad) tiene (relación) un arma (entidad) siempre y cuando no realice funciones de oficina, pudiendo entonces tenerla o no asignada. Es una relación 0:1.
             li 
               i.fas.fa-angle-double-right
-              | UCada esposo (entidad) está casado (relación) con una única esposa (entidad) y viceversa. Es una relación 1:1.
+              | Cada esposo (entidad) está casado (relación) con una única esposa (entidad) y viceversa. Es una relación 1:1.
             li 
               i.fas.fa-angle-double-right
-              | UUna factura (entidad) se emite (relación) a un cliente (entidad) y sólo una, pero una cliente puede tener varias facturas emitidas a su nombre. Todas las facturas se emiten a nombre de alguien. Es una relación 1: N.
+              | Una factura (entidad) se emite (relación) a un cliente (entidad) y sólo una, pero una cliente puede tener varias facturas emitidas a su nombre. Todas las facturas se emiten a nombre de alguien. Es una relación 1: N.
             li 
               i.fas.fa-angle-double-right
-              | UUn cliente (entidad) puede comprar (relación) varios servicios (entidad) y un servicio puede ser comprado por varios clientes distintos. Es una relación N:M.
+              | Un cliente (entidad) puede comprar (relación) varios servicios (entidad) y un servicio puede ser comprado por varios clientes distintos. Es una relación N:M.
         .row.p-4(titulo="Paso 8")
           .col-md-6.mb-4.mb-lg-0  
             p Aplicar las reglas de normalización. Aplique las reglas de normalización de datos para ver si las tablas están estructuradas correctamente. Haga algunos ajustes en las tablas, si es necesario. La normalización es el proceso de organizar de manera eficiente los datos dentro de una base de datos. Hay que organizar tablas y el establecimiento de relaciones y el establecimiento de relaciones entre ellas según reglas preestablecidas.

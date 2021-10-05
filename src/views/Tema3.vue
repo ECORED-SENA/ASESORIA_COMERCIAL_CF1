@@ -62,7 +62,23 @@
 
     .row.justify-content-center.mb-4
       .col-lg-11.mb-4
-        img(src='@/assets/curso/tema3/img06.svg')
+        ImagenInfografica.color-acento-contenido.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema3/img06.svg')
+          
+          .tarjeta.color-primario.p-3(x="19%" y="13%")
+            .h5.mb-2 Mercadeo no diferenciado
+            p Mismo producto a todos los consumidores (sin segmentación). La empresa decide llegar con su oferta a todo el mercado, porque la oferta es común a satisfacer las necesidades de todos. Es de resaltar que es fácil que la competencia llegue con un producto diferenciado y lo desplace del mercado.
+          .tarjeta.color-primario.p-3(x="19%" y="32%")
+            .h5.mb-2 Mercadeo diferenciado
+            p Diferentes productos para uno o más segmentos (cierta segmentación). La empresa toma la decisión de ofrecer a varios segmentos con una oferta diferente para cada uno. 
+          .tarjeta.color-primario.p-3(x="19%" y="58%")
+            .h5.mb-2 Mercadeo de nicho o concentrado
+            p Consiste en desarrollar dentro de un segmento o varios segmentos uno o varios grupos de clientes. Los esfuerzos se dirigen a uno o pocos segmentos en los que se posea una ventaja comparativa. Ejemplo: una empresa de crema dentales tiene un segmento de estas para adultos y en ese mismo segmento ofrece una crema dental sensitiva para adultos. 
+          .tarjeta.color-primario.p-3(x="19%" y="81%")
+            .h5.mb-2 Micromercados
+            p Esta estrategia consiste en personalizar los productos y servicios según los segmentos, hábitos y preferencias de los consumidores. Todo el esfuerzo de mercadeo de la empresa se dirige a ese micronicho.     
 
     Separador
     #t_3_4.titulo-segundo(data-aos="fade-right")

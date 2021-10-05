@@ -149,7 +149,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Técnica de recolección de datos',
+        titulo: 'Bases de datos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -210,22 +210,22 @@ export default {
   referencias: [
     {
       referencia:
-        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
+        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall. ',
     },
     {
       referencia:
-        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder.',
+        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder. ',
       link: 'https://www.lifeder.com/tecnicas-instrumentos-recoleccion-datos/',
     },
     {
       referencia:
-        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico.',
+        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico. ',
       link:
         'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
     },
     {
       referencia:
-        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva.',
+        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva. ',
       link: 'https://www.mejoracompetitiva.es/2015/09/que-es-estrategia/',
     },
     {
@@ -248,12 +248,12 @@ export default {
         'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
     },
     {
-      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación.',
+      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación. ',
       link:
         'https://es.slideshare.net/guillermopereda/mtodos-y-tcnicas-de-investigacin-79785371',
     },
     {
-      referencia: 'QuestioPro. (s.f.). Encuesta.',
+      referencia: 'QuestioPro. (s.f.). Encuesta. ',
       link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
     },
     {
@@ -408,6 +408,27 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Javier del Carmen Martínez Pérez',
+        cargo: 'Instructor Técnico',
+        centro: 'Regional Bolívar - Centro de Comercio y Servicio',
+      },
+      {
+        nombre: 'Zenith Chinchilla Ruedas',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Regional Distrito Capital – Centro de para la Comunicación de la Industria de la Comunicación Gráfica.',
+      },
     ],
     desarrolloProducto: [
       {
@@ -422,25 +443,60 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Anllelo Andres Reina Montañez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

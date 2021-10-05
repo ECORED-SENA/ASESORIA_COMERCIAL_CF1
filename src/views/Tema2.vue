@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 2.	Mercado
+      h1 Mercado
     
     figure.mb-4
       img(src='@/assets/curso/tema2/img01.png')
@@ -92,7 +92,7 @@
     
     .row.justify-content-center.mb-4
       .col-lg-7.mb-4
-        p.mb-4 Con base en la demanda, los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, así, las acciones de marketing de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas. Según el monto de la mercancía hay:
+        p.mb-4 Con base en la demanda, los mercados están construidos por personas, hogares, empresas o instituciones que demandan productos, así, las acciones de #[i marketing] de una empresa deben estar sistemáticamente dirigidas a cubrir los requerimientos particulares de estos mercados para proporcionarles una mejor satisfacción de sus necesidades específicas. Según el monto de la mercancía hay:
         ul.lista-ul--color
           li 
             i.fas.fa-angle-double-right
@@ -108,7 +108,7 @@
             i.fas.fa-angle-double-right
             p
               strong  Mercado meta. 
-              | Está configurado por los segmentos del mercado potencial que han sido seleccionados en forma específica, como destinatarios de la gestión de marketing, es el mercado que la empresa desea y decide captar.
+              | Está configurado por los segmentos del mercado potencial que han sido seleccionados en forma específica, como destinatarios de la gestión de #[i marketing], es el mercado que la empresa desea y decide captar.
           li 
             i.fas.fa-angle-double-right
             p 
@@ -173,7 +173,7 @@
 
     Separador
     #t_2_7.titulo-segundo(data-aos="fade-right")
-      .h3 2.7	Pasos para definir el mercado metao    
+      .h3 2.7	Pasos para definir el mercado meta    
     
     p.mb-4 La empresa debe saber quiénes son los consumidores a los que va dirigida su oferta y cada decisión hacia ellos, a ese grupo de clientes se le llama “mercado objetivo” o “mercado meta”.
     p.mb-4 Con ese mercado meta se puede tomar la decisión de qué publicidad se va a usar, qué precio y qué programa de fidelización montar. Para ello, se deben llevar a cabo los siguientes pasos:
@@ -183,20 +183,20 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Segmentación
-            p Es el proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente. De acuerdo con Kerin et al (2014, p. 228), la segmentación de mercados consiste en dividir a los compradores potenciales en grupos que: tienen necesidades comunes y responden de manera similar a una acción de marketing. ¿Qué se puede segmentar?: usos, deseos, poder de compra, residencia, actitudes, hábitos de compra.
+            p Es el proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente. De acuerdo con Kerin et al (2014, p. 228), la segmentación de mercados consiste en dividir a los compradores potenciales en grupos que: tienen necesidades comunes y responden de manera similar a una acción de #[i marketing]. ¿Qué se puede segmentar?: usos, deseos, poder de compra, residencia, actitudes, hábitos de compra.
           .col-md-4
             img(src='@/assets/curso/tema2/img10.png')
       .py-3.py-md-4(titulo="Mercado meta")
         .row.justify-content-center
           .col-md-7.mb-4.mb-md-0
             h4 Mercado meta
-            p.mb-4 Se refiere al grupo de personas ideales para adquirir tu servicio o producto, al que debemos dirigir nuestra atención y esfuerzos de marketing.
+            p.mb-4 Se refiere al grupo de personas ideales para adquirir tu servicio o producto, al que debemos dirigir nuestra atención y esfuerzos de #[i marketing].
             p.mb-4 ¿Cómo definir el mercado meta? Seguir estos pasos para poder definir el mercado objetivo:
-            p.mb-4 Analizar los clientes existentes. Recolectar toda la información sobre los clientes actuales y potenciales y tratar de identificar características que tengan en común como edad, sexo, ubicación, intereses, etc.
-            p.mb-4 Conoce los beneficios de tu producto. Cuáles son los elementos de tu producto, y sus beneficios con respecto a otros, así como cuáles son tus áreas de oportunidad.
-            p.mb-4 Investiga a tus competidores. Revisar lo que hacen tus competidores más importantes. 
-            p.mb-4 Segmenta a los consumidores. Con la información muy valiosa acerca de los consumidores, es hora de comenzar a separarlos en diferentes grupos (a esto se le llama segmentar al mercado). Estos distintos grupos serán la base del mercado meta.
-            p.mb-4 Escribir el mercado meta. Tener el mercado meta definido y en papel no solamente es para que tener claridad sobre esto, sino también servirá para el entorno con proveedores externos, ellos entiendan tanto como a quién va dirigido el producto (piensa en diseñadores, fotógrafos, publicistas, entre otros). Ejemplo: “El mercado meta son hombres y mujeres de 18 a 30 años, con un poder adquisitivo alto, que estén interesados en festivales de música electrónica y viajes”.
+            p.mb-4 #[strong Analizar los clientes existentes]. Recolectar toda la información sobre los clientes actuales y potenciales y tratar de identificar características que tengan en común como edad, sexo, ubicación, intereses, etc.
+            p.mb-4 #[strong Conoce los beneficios de tu producto]. Cuáles son los elementos de tu producto, y sus beneficios con respecto a otros, así como cuáles son tus áreas de oportunidad.
+            p.mb-4 #[strong Investiga a tus competidores]. Revisar lo que hacen tus competidores más importantes. 
+            p.mb-4 #[strong Segmenta a los consumidores]. Con la información muy valiosa acerca de los consumidores, es hora de comenzar a separarlos en diferentes grupos (a esto se le llama segmentar al mercado). Estos distintos grupos serán la base del mercado meta.
+            p.mb-4 #[strong Escribir el mercado meta]. Tener el mercado meta definido y en papel no solamente es para que tener claridad sobre esto, sino también servirá para el entorno con proveedores externos, ellos entiendan tanto como a quién va dirigido el producto (piensa en diseñadores, fotógrafos, publicistas, entre otros). Ejemplo: “El mercado meta son hombres y mujeres de 18 a 30 años, con un poder adquisitivo alto, que estén interesados en festivales de música electrónica y viajes”.
             p Redefinir el producto. Tomar decisiones para introducir cambios ajustados a lo que solicita ese segmento de mercado.  
           .col-md-5
             img(src='@/assets/curso/tema2/img11.png')
@@ -219,7 +219,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Ventas
-            p El siguiente paso es llegarle a esos segmentos o nichos de mercado a través de la estrategia de ventas para cada uno de los segmentos. La segmentación del mercado es una estrategia de marketing que permite obtener mejores resultados de ventas, en tanto que se basa en la división de nuestro mercado, entendido este como potenciales clientes, en distintos segmentos o nichos con necesidades, características y comportamientos comunes, para adaptar la oferta a sus requerimientos específicos.
+            p El siguiente paso es llegarle a esos segmentos o nichos de mercado a través de la estrategia de ventas para cada uno de los segmentos. La segmentación del mercado es una estrategia de #[i marketing] que permite obtener mejores resultados de ventas, en tanto que se basa en la división de nuestro mercado, entendido este como potenciales clientes, en distintos segmentos o nichos con necesidades, características y comportamientos comunes, para adaptar la oferta a sus requerimientos específicos.
           .col-md-4
             img(src='@/assets/curso/tema2/img14.png')
          

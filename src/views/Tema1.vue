@@ -10,9 +10,9 @@
     
     .row.mb-4
       .col-lg-7
-        p.mb-4 El mercadeo o marketing involucra el cómo hacer coincidir el producto o marca de una empresa con lo que quiere el mercado o los consumidores para, de esta manera, generar ventas y rentabilidad. Esto quiere decir que, de acuerdo con el mercado, la empresa puede modificar el diseño del producto, estructurar precios, promociones, buscar canales para hacer llegar la marca a los clientes, comunicar todos los beneficios y atributos, además de llegar a nuevos consumidores.
+        p.mb-4 El mercadeo o #[i marketing] involucra el cómo hacer coincidir el producto o marca de una empresa con lo que quiere el mercado o los consumidores para, de esta manera, generar ventas y rentabilidad. Esto quiere decir que, de acuerdo con el mercado, la empresa puede modificar el diseño del producto, estructurar precios, promociones, buscar canales para hacer llegar la marca a los clientes, comunicar todos los beneficios y atributos, además de llegar a nuevos consumidores.
         .cajon.color-primario.p-4.mb-4(data-aos="fade-right")
-          p De acuerdo con Kotler y Armstrong (2013, p. 35), el mercadeo es un “proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes”. Igualmente, Stanton et al, (2007, p. 9) manifiestan que el “concepto de marketing hace hincapié en la orientación al cliente y en la coordinación de las actividades de marketing para alcanzar los objetivos de desempeño de la organización”.
+          p De acuerdo con Kotler y Armstrong (2013, p. 35), el mercadeo es un “proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes”. Igualmente, Stanton et al, (2007, p. 9) manifiestan que el “concepto de #[i marketing] hace hincapié en la orientación al cliente y en la coordinación de las actividades de #[i marketing] para alcanzar los objetivos de desempeño de la organización”.
         p.mb-4 Por tanto, se puede decir que el mercadeo es una serie de procesos y actividades que busca conocer las necesidades de los consumidores para influir en sus gustos y deseos mediante técnicas y estrategias, ofreciendo bienes y servicios que le generen un valor agregado y le dejen una experiencia.
       .col-lg-4
         img(src='@/assets/curso/tema1/img01.svg')(data-aos="fade-left")
@@ -43,7 +43,7 @@
             | Establecer el mejor precio para sus productos.
           li 
             i.fas.fa-star-half-alt
-            | Crear el mensaje de marketing adecuado.
+            | Crear el mensaje de #[i marketing] adecuado.
           li 
             i.fas.fa-star-half-alt
             | Aumentar la cantidad que satisface la demanda de sus clientes.
@@ -75,7 +75,7 @@
               .col-1
               .col-10
                 p
-                  strong Necesidades, deseos y demandas del cliente.
+                  strong Necesidades, deseos y demandas del cliente. 
                   | Necesidades son los estados de carencia percibida. Una persona necesita alimentarse, mientras que los deseos son la forma que adopta una necesidad humana moldeada por la cultura y la personalidad del individuo. Por ejemplo, esa persona escoge comerse una hamburguesa de McDonald’s o pollo de Frisby.
       .col-lg-10
         figure.mb-3
@@ -168,7 +168,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
-        p.mb-4 En este factor la empresa debe decidir lo que vende la empresa y el mercado en el que se encuentra, además, debe tener en cuenta que el producto que tenga éxito y sea innovador hoy puede convertirse en el commodity de mañana. Es por esto que se debe pensar en los productos actuales y en los potenciales.
+        p.mb-4 En este factor la empresa debe decidir lo que vende la empresa y el mercado en el que se encuentra, además, debe tener en cuenta que el producto que tenga éxito y sea innovador hoy puede convertirse en el #[i commodity] de mañana. Es por esto que se debe pensar en los productos actuales y en los potenciales.
       .col-lg-4.d-flex.mb-4(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4
           p Se debe tener en cuenta que, en mercadeo, el enfoque de producto debe centrarse en lo que el consumidor necesita y le cause experiencias significativas.
@@ -184,7 +184,7 @@
           .bloque-texto-d__autor
             i.fas.fa-quote-right
       .col-lg-10.mb-4
-        p.mb-4 El propósito de toda empresa es que sus productos sean reconocidos en el mercado; es decir, que el producto se convierta en una marca, que según la SIC (2021), “es una categoría de signo distintivo que identifica los productos o servicios de una empresa o empresario”.
+        p.mb-4 El propósito de toda empresa es que sus productos sean reconocidos en el mercado; es decir, que el producto se convierta en #[strong una marca], que según la SIC (2021), “es una categoría de signo distintivo que identifica los productos o servicios de una empresa o empresario”.
       .col-lg-10.mb-4
         .tarjeta--container.row.mb-5
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-right")
@@ -256,7 +256,7 @@
       .col-lg-10.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 2
-          span Objetivo general de una empresa
+          span Niveles de producto
         figure
           img(src='@/assets/curso/tema1/img14.svg') 
           figcaption Nota. Tomada de Santesmases, Valderrey y Sánchez. (2014)
@@ -383,9 +383,9 @@
             img(src='@/assets/curso/tema1/img23.svg')
         .row.justify-content-center(titulo="Precio de statu quo")
           .col-md-10.mb-4.mb-md-0
-            h4.mb-4 Precio de statu quo
+            h4.mb-4 Precio de #[i statu quo]
           .col-md-6.mb-4.mb-md-0
-            p Para fijar el precio de statu quo, por lo general, es un producto que ya tiene presencia en el mercado, por lo que la empresa realiza un chequeo de precios que le permite ver el comportamiento de la competencia y sigue al precio más alto, sin superar a este.
+            p Para fijar el precio de #[i statu quo], por lo general, es un producto que ya tiene presencia en el mercado, por lo que la empresa realiza un chequeo de precios que le permite ver el comportamiento de la competencia y sigue al precio más alto, sin superar a este.
           .col-md-4
             img(src='@/assets/curso/tema1/img24.png')
         .row.justify-content-center(titulo="Otras tácticas que acompañan al precio")
@@ -525,6 +525,16 @@
                 li 
                   i.fas.fa-star-half-alt
                   |	Almacenamiento.
+                li 
+                  i.fas.fa-star-half-alt
+                  |	Financiamiento.
+                li 
+                  i.fas.fa-star-half-alt
+                  |	Riesgo.
+                li 
+                  i.fas.fa-star-half-alt
+                  |	Otros.
+
             .col-lg-5
               img(src='@/assets/curso/tema1/img38.svg')
   
@@ -558,7 +568,7 @@
         p Los consumidores finales realizan sus pedidos a los intermediarios y éstos a su vez a los fabricantes.
 
     h4.mb-4 Participantes en el canal de distribución
-
+    p.mb-4 En un canal de distribución intervienen los siguientes integrantes:
     .row.justify-content-center.mb-4
       .col-lg-11.mb-4.p-4
         img(src='@/assets/curso/tema1/img41.svg')
@@ -619,7 +629,7 @@
               | Canales de distribución para bienes y servicios de las empresas.
             li 
               i.fas.fa-star-half-alt
-              | Canales de distribución para mercadeo online.
+              | Canales de distribución para mercadeo #[i online].
             li 
               i.fas.fa-star-half-alt
               | Canales de distribución directa y multicanal.
@@ -661,13 +671,13 @@
           ul.lista-ul--color
             li 
               i.fas.fa-angle-double-right
-              | Distribución intensiva: es una estrategia en que abastecen sus productos en tantos puntos de venta como sea posible.
+              | #[strong Distribución intensiva]: es una estrategia en que abastecen sus productos en tantos puntos de venta como sea posible.
             li 
               i.fas.fa-angle-double-right
-              | Distribución exclusiva: busca que algunos productores de manera deliberada limiten el número de intermediarios que manejan sus productos.
+              | #[strong Distribución exclusiva]: busca que algunos productores de manera deliberada limiten el número de intermediarios que manejan sus productos.
             li 
               i.fas.fa-angle-double-right
-              | Distribución selectiva: corresponde al uso de más de uno, pero menos que todos los intermediarios dispuestos a tener el inventario de los productos de la compañía.
+              | #[strong Distribución selectiva]: corresponde al uso de más de uno, pero menos que todos los intermediarios dispuestos a tener el inventario de los productos de la compañía.
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 8
@@ -712,6 +722,10 @@
     figure.mb-4(data-aos="flip-up") 
       img(src='@/assets/curso/tema1/img54.png')  
     
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZtS0dRaNtfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p.mb-4 Después de desarrollar un producto, fijarle un precio según el ciclo de vida de este, estructurar el canal de distribución accesible a un mercado objetivo, la comunicación con ese mercado objetivo es de vital importancia. Pero, ¿qué es la comunicación? De acuerdo con Kerin, Hartley y Rudelius (2014, p. 450), la comunicación es el proceso de transmitir un mensaje a otros y requiere seis elementos: fuente o emisor, mensaje, canal de comunicación, receptor y procesos de codificación y decodificación.
 
     .row.justify-content-center.mb-4
@@ -726,19 +740,19 @@
           ul.lista-ul--color
             li 
               i.fas.fa-angle-double-right
-              | Publicidad: cualquier forma pagada e impersonal de presentación y promoción de ideas, bienes o servicios por un patrocinador identificado.
+              | #[strong Publicidad]: cualquier forma pagada e impersonal de presentación y promoción de ideas, bienes o servicios por un patrocinador identificado.
             li 
               i.fas.fa-angle-double-right
-              | Promoción de ventas: incentivos a corto plazo para fomentar la compra o venta de un producto o servicio.
+              | #[strong Promoción de ventas]: incentivos a corto plazo para fomentar la compra o venta de un producto o servicio.
             li 
               i.fas.fa-angle-double-right
-              | Ventas personales: presentación personal por la fuerza de ventas de la empresa con el propósito de realizar ventas y construir relaciones con los clientes.
+              | #[strong Ventas personales]: presentación personal por la fuerza de ventas de la empresa con el propósito de realizar ventas y construir relaciones con los clientes.
             li 
               i.fas.fa-angle-double-right
-              | Relaciones públicas: forjar buenas relaciones con los diversos públicos de la empresa al obtener publicity (publicidad no pagada) favorable, construir una buena imagen corporativa y manejar o desviar rumores, historias y eventos desfavorables.
+              | #[strong Relaciones públicas]: forjar buenas relaciones con los diversos públicos de la empresa al obtener publicity (publicidad no pagada) favorable, construir una buena imagen corporativa y manejar o desviar rumores, historias y eventos desfavorables.
             li 
               i.fas.fa-angle-double-right
-              | Marketing directo: conexiones directas con consumidores individuales cuidadosamente seleccionados tanto para obtener una respuesta inmediata como para cultivar relaciones duraderas con los clientes.
+              | #[strong marketing directo]: conexiones directas con consumidores individuales cuidadosamente seleccionados tanto para obtener una respuesta inmediata como para cultivar relaciones duraderas con los clientes.
 
 </template>
 
