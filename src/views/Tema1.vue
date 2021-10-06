@@ -671,13 +671,19 @@
           ul.lista-ul--color
             li 
               i.fas.fa-angle-double-right
-              | #[strong Distribución intensiva]: es una estrategia en que abastecen sus productos en tantos puntos de venta como sea posible.
+              p
+                strong Distribución intensiva: 
+                | es una estrategia en que abastecen sus productos en tantos puntos de venta como sea posible.
             li 
               i.fas.fa-angle-double-right
-              | #[strong Distribución exclusiva]: busca que algunos productores de manera deliberada limiten el número de intermediarios que manejan sus productos.
+              p
+                strong Distribución exclusiva: 
+                | busca que algunos productores de manera deliberada limiten el número de intermediarios que manejan sus productos.
             li 
               i.fas.fa-angle-double-right
-              | #[strong Distribución selectiva]: corresponde al uso de más de uno, pero menos que todos los intermediarios dispuestos a tener el inventario de los productos de la compañía.
+              p
+                strong Distribución selectiva: 
+                | corresponde al uso de más de uno, pero menos que todos los intermediarios dispuestos a tener el inventario de los productos de la compañía.
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 8
@@ -740,19 +746,29 @@
           ul.lista-ul--color
             li 
               i.fas.fa-angle-double-right
-              | #[strong Publicidad]: cualquier forma pagada e impersonal de presentación y promoción de ideas, bienes o servicios por un patrocinador identificado.
+              p
+                strong Publicidad: 
+                | cualquier forma pagada e impersonal de presentación y promoción de ideas, bienes o servicios por un patrocinador identificado.
             li 
               i.fas.fa-angle-double-right
-              | #[strong Promoción de ventas]: incentivos a corto plazo para fomentar la compra o venta de un producto o servicio.
+              p
+                strong Promoción de ventas: 
+                | incentivos a corto plazo para fomentar la compra o venta de un producto o servicio.
             li 
               i.fas.fa-angle-double-right
-              | #[strong Ventas personales]: presentación personal por la fuerza de ventas de la empresa con el propósito de realizar ventas y construir relaciones con los clientes.
+              p
+                strong Ventas personales: 
+                | presentación personal por la fuerza de ventas de la empresa con el propósito de realizar ventas y construir relaciones con los clientes.
             li 
               i.fas.fa-angle-double-right
-              | #[strong Relaciones públicas]: forjar buenas relaciones con los diversos públicos de la empresa al obtener publicity (publicidad no pagada) favorable, construir una buena imagen corporativa y manejar o desviar rumores, historias y eventos desfavorables.
+              p
+                strong Relaciones públicas: 
+                | forjar buenas relaciones con los diversos públicos de la empresa al obtener publicity (publicidad no pagada) favorable, construir una buena imagen corporativa y manejar o desviar rumores, historias y eventos desfavorables.
             li 
               i.fas.fa-angle-double-right
-              | #[strong marketing directo]: conexiones directas con consumidores individuales cuidadosamente seleccionados tanto para obtener una respuesta inmediata como para cultivar relaciones duraderas con los clientes.
+              p
+                strong marketing directo: 
+                | conexiones directas con consumidores individuales cuidadosamente seleccionados tanto para obtener una respuesta inmediata como para cultivar relaciones duraderas con los clientes.
 
 </template>
 
