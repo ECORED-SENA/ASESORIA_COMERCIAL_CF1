@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1099.203" height="447.554" viewBox="0 0 1099.203 447.554">
+  <g id="Grupo_78154" data-name="Grupo 78154" transform="translate(-128.187 -5645.386)">
+    <path id="Trazado_179253" data-name="Trazado 179253" d="M296.592,5796.112v96.163a13.387,13.387,0,0,0,13.4,13.387l174.241-.136" fill="none" stroke="#2a5e77" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Trazado_179254" data-name="Trazado 179254" d="M686.717,5867.685v96.163a13.386,13.386,0,0,0,13.4,13.387l174.241-.137" fill="none" stroke="#a45347" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_22913" data-name="Rectángulo 22913" width="232.282" height="111.72" rx="14.042" transform="translate(128.187 5645.386)" fill="#75c9f1"/>
+    <rect id="Rectángulo_22914" data-name="Rectángulo 22914" width="232.282" height="112.107" rx="14.042" transform="translate(241.51 5752.21)" fill="#53bced"/>
+    <g id="Grupo_78148" data-name="Grupo 78148">
+      <path id="Trazado_179255" data-name="Trazado 179255" d="M469.183,5743.158a2.728,2.728,0,0,1-2.728-2.727V5669.3a18.121,18.121,0,0,0-18.1-18.1H371.706a2.728,2.728,0,0,1,0-5.456h76.649a23.583,23.583,0,0,1,23.556,23.557v71.131A2.727,2.727,0,0,1,469.183,5743.158Z" fill="#2a5e77"/>
+    </g>
+    <g id="Grupo_78149" data-name="Grupo 78149">
+      <path id="Trazado_179256" data-name="Trazado 179256" d="M130.914,5766.9a2.727,2.727,0,0,1,2.728,2.727v71.131a18.121,18.121,0,0,0,18.1,18.1h76.649a2.728,2.728,0,0,1,0,5.455H151.743a23.582,23.582,0,0,1-23.556-23.556V5769.63A2.727,2.727,0,0,1,130.914,5766.9Z" fill="#2a5e77"/>
+    </g>
+    <rect id="Rectángulo_22915" data-name="Rectángulo 22915" width="311.46" height="183.816" rx="12.363" transform="translate(145.259 5665.197)" fill="#f2f4ff"/>
+    <text id="Diseño_conceptual_Consiste_en_la_producción_de_un_esquema_conceptual_que_es_independiente_de_todas_las_consideraciones_físicas._" data-name="Diseño conceptual
+Consiste en la producción de un esquema conceptual, que es independiente de todas las consideraciones físicas. 
+" transform="translate(179.653 5677.509)" fill="#2a5e77" font-size="20" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="15">Diseño conceptual</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="39">Consiste en la producción </tspan><tspan x="0" y="63">de un esquema conceptual, </tspan><tspan x="0" y="87">que es independiente de </tspan><tspan x="0" y="111">todas las consideraciones </tspan><tspan x="0" y="135">físicas. </tspan></tspan></text>
+    <rect id="Rectángulo_22916" data-name="Rectángulo 22916" width="232.282" height="111.72" rx="14.042" transform="translate(881.784 5828.253)" fill="#75c9f1"/>
+    <rect id="Rectángulo_22917" data-name="Rectángulo 22917" width="232.282" height="112.107" rx="14.042" transform="translate(995.107 5980.833)" fill="#53bced"/>
+    <g id="Grupo_78150" data-name="Grupo 78150">
+      <path id="Trazado_179257" data-name="Trazado 179257" d="M1222.78,5926.026a2.727,2.727,0,0,1-2.727-2.728v-71.131a18.121,18.121,0,0,0-18.1-18.1H1125.3a2.728,2.728,0,0,1,0-5.456h76.649a23.583,23.583,0,0,1,23.556,23.556V5923.3A2.727,2.727,0,0,1,1222.78,5926.026Z" fill="#2a5e77"/>
+    </g>
+    <g id="Grupo_78151" data-name="Grupo 78151">
+      <path id="Trazado_179258" data-name="Trazado 179258" d="M884.512,5995.526a2.727,2.727,0,0,1,2.727,2.727v71.131a18.122,18.122,0,0,0,18.1,18.1h76.649a2.728,2.728,0,1,1,0,5.455H905.34a23.582,23.582,0,0,1-23.556-23.556v-71.131A2.727,2.727,0,0,1,884.512,5995.526Z" fill="#2a5e77"/>
+    </g>
+    <rect id="Rectángulo_22918" data-name="Rectángulo 22918" width="311.46" height="228.18" rx="12.363" transform="translate(898.857 5848.064)" fill="#f2f4ff"/>
+    <text id="El_esquema_lógico_se_traduce_en_un_esquema_físico_para_el_SGBD_escogido._Considera_las_estructuras_de_almacenamiento_y_los_métodos_de_acceso_necesarios_para_proporcionar_un_acceso_eficiente_a_la_base_de_datos_en_memoria_secundaria._" data-name="El esquema lógico se traduce en un esquema físico para el SGBD escogido. Considera las estructuras de almacenamiento y los métodos de acceso necesarios para proporcionar un acceso eficiente a la base de datos en memoria secundaria.
+" transform="translate(915.538 5860.354)" fill="#2a5e77" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">El esquema lógico se traduce </tspan><tspan x="0" y="46">en un esquema físico para el </tspan><tspan x="0" y="70">SGBD escogido. Considera las </tspan><tspan x="0" y="94">estructuras de almacenamiento </tspan><tspan x="0" y="118">y los métodos de acceso </tspan><tspan x="0" y="142">necesarios para proporcionar </tspan><tspan x="0" y="166">un acceso eficiente a la base de </tspan><tspan x="0" y="190">datos en memoria secundaria.</tspan></text>
+    <rect id="Rectángulo_22919" data-name="Rectángulo 22919" width="232.282" height="111.72" rx="14.042" transform="translate(499.626 5718.429)" fill="#e28b7f"/>
+    <rect id="Rectángulo_22920" data-name="Rectángulo 22920" width="232.282" height="112.107" rx="14.042" transform="translate(612.949 5825.254)" fill="#db6e5f"/>
+    <g id="Grupo_78152" data-name="Grupo 78152">
+      <path id="Trazado_179259" data-name="Trazado 179259" d="M840.622,5816.2a2.727,2.727,0,0,1-2.727-2.728v-71.131a18.12,18.12,0,0,0-18.1-18.1H743.145a2.728,2.728,0,0,1,0-5.456h76.649a23.582,23.582,0,0,1,23.556,23.556v71.131A2.728,2.728,0,0,1,840.622,5816.2Z" fill="#a45347"/>
+    </g>
+    <g id="Grupo_78153" data-name="Grupo 78153">
+      <path id="Trazado_179260" data-name="Trazado 179260" d="M502.354,5839.946a2.727,2.727,0,0,1,2.727,2.728v71.131a18.122,18.122,0,0,0,18.1,18.1h76.649a2.728,2.728,0,0,1,0,5.456H523.182a23.582,23.582,0,0,1-23.556-23.556v-71.131A2.728,2.728,0,0,1,502.354,5839.946Z" fill="#a45347"/>
+    </g>
+    <rect id="Rectángulo_22921" data-name="Rectángulo 22921" width="311.46" height="183.816" rx="12.363" transform="translate(516.699 5738.241)" fill="#fceeed"/>
+    <text id="Diseño_lógico_Elimina_las_construcciones_que_no_se_pueden_representar_en_el_modelo_de_base_de_datos_escogido_relacional_orientado_a_objetos_etc._._" data-name="Diseño lógico
+Elimina las construcciones que no se pueden representar en el modelo de base de datos escogido (relacional, orientado a objetos, etc.).
+" transform="translate(534.089 5753.325)" fill="#6e3730" font-size="20" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="15">Diseño lógico</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="39">Elimina las construcciones que </tspan><tspan x="0" y="63">no se pueden representar en el </tspan><tspan x="0" y="87">modelo de base de datos </tspan><tspan x="0" y="111">escogido (relacional, orientado </tspan><tspan x="0" y="135">a objetos, etc.).</tspan></tspan><tspan font-family="MyriadPro-Regular" font-weight="400"><tspan x="0" y="159"></tspan></tspan></text>
+  </g>
+</svg>

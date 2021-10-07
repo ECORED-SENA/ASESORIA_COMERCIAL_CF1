@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="967.836" height="725.307" viewBox="0 0 967.836 725.307">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.182" stop-color="#0d66bf"/>
+      <stop offset="0.333" stop-color="#136dc3"/>
+      <stop offset="0.566" stop-color="#2483ce"/>
+      <stop offset="0.85" stop-color="#41a6e1"/>
+      <stop offset="1" stop-color="#53bced"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_68464" data-name="Grupo 68464" transform="translate(-183.639 -8115.028)">
+    <line id="Línea_232" data-name="Línea 232" x2="50.087" transform="translate(556.724 8154.835)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_233" data-name="Línea 233" x2="50.087" transform="translate(556.724 8254.581)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18632" data-name="Rectángulo 18632" width="178.074" height="67.578" rx="14.962" transform="translate(606.811 8115.028)" fill="#53bced"/>
+    <rect id="Rectángulo_18633" data-name="Rectángulo 18633" width="246.609" height="68.783" rx="14.962" transform="translate(904.866 8360.178)" fill="#db6e5f"/>
+    <text id="Posesión" transform="translate(932.546 8379.181)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Posesión</tspan></text>
+    <text id="Mayoristas" transform="translate(640.202 8137.124)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Mayoristas</tspan></text>
+    <rect id="Rectángulo_18634" data-name="Rectángulo 18634" width="178.074" height="67.578" rx="14.962" transform="translate(606.811 8220.792)" fill="#53bced"/>
+    <text id="Minoristas_" data-name="Minoristas
+" transform="translate(640.202 8242.888)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Minoristas</tspan><tspan font-family="MyriadPro-Bold"><tspan x="0" y="41.2"></tspan></tspan></text>
+    <rect id="Rectángulo_18635" data-name="Rectángulo 18635" width="178.074" height="67.578" rx="14.962" transform="translate(606.811 8307.898)" fill="#db6e5f"/>
+    <text id="Comisionistas" transform="translate(627.68 8329.995)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Comisionistas</tspan></text>
+    <rect id="Rectángulo_18636" data-name="Rectángulo 18636" width="178.074" height="67.578" rx="14.962" transform="translate(606.811 8413.662)" fill="#db6e5f"/>
+    <text id="Agentes_vendedores" data-name="Agentes vendedores" transform="translate(627.68 8418.585)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Agentes </tspan><tspan x="0" y="41.2">vendedores</tspan></text>
+    <line id="Línea_234" data-name="Línea 234" y2="103.174" transform="translate(556.724 8152.826)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_235" data-name="Línea 235" x2="100.696" transform="translate(456.028 8204.413)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_236" data-name="Línea 236" x2="50.087" transform="translate(556.724 8344.992)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_237" data-name="Línea 237" x2="50.087" transform="translate(556.724 8444.737)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_238" data-name="Línea 238" y2="103.174" transform="translate(556.724 8342.982)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_239" data-name="Línea 239" x2="100.696" transform="translate(456.028 8394.569)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18637" data-name="Rectángulo 18637" width="178.074" height="67.578" rx="14.962" transform="translate(612.811 8520.085)" fill="#e2cb5e"/>
+    <text id="Transportes" transform="translate(633.68 8542.182)" fill="#0a4d8f" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Transportes</tspan></text>
+    <rect id="Rectángulo_18638" data-name="Rectángulo 18638" width="199.652" height="67.578" rx="14.962" transform="translate(612.811 8598.782)" fill="#e2cb5e"/>
+    <text id="Almacenamiento" transform="translate(633.68 8618.079)" fill="#0a4d8f" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Almacenamiento</tspan></text>
+    <line id="Línea_240" data-name="Línea 240" x2="50.087" transform="translate(556.724 8557.179)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_241" data-name="Línea 241" x2="50.087" transform="translate(556.724 8629.857)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18639" data-name="Rectángulo 18639" width="178.074" height="67.578" rx="14.962" transform="translate(612.811 8680.76)" fill="#e2cb5e"/>
+    <text id="Bancos" transform="translate(662.898 8700.987)" fill="#0a4d8f" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Bancos</tspan></text>
+    <rect id="Rectángulo_18640" data-name="Rectángulo 18640" width="178.074" height="67.578" rx="14.962" transform="translate(949.084 8635.201)" fill="#e2cb5e"/>
+    <text id="Facilitadores_de_tareas" data-name="Facilitadores de tareas" transform="translate(973.072 8644.128)" fill="#0a4d8f" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Facilitadores </tspan><tspan x="0" y="41.2">de tareas</tspan></text>
+    <line id="Línea_242" data-name="Línea 242" x2="50.087" transform="translate(556.724 8711.834)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_243" data-name="Línea 243" x2="81.043" transform="translate(856.55 8668.99)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18641" data-name="Rectángulo 18641" width="178.074" height="67.578" rx="14.962" transform="translate(612.811 8768.412)" fill="#e2cb5e"/>
+    <text id="Agencias_de_publicidad" data-name="Agencias de publicidad" transform="translate(644.469 8773.335)" fill="#0a4d8f" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Agencias de </tspan><tspan x="0" y="41.2">publicidad</tspan></text>
+    <line id="Línea_244" data-name="Línea 244" x2="50.087" transform="translate(556.724 8799.486)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_245" data-name="Línea 245" y2="246.244" transform="translate(556.724 8555.169)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_246" data-name="Línea 246" x1="50.087" transform="translate(806.463 8557.179)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_247" data-name="Línea 247" x1="50.087" transform="translate(806.463 8799.486)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_248" data-name="Línea 248" y2="246.244" transform="translate(856.55 8555.169)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Línea_249" data-name="Línea 249" x2="100.696" transform="translate(456.028 8658.343)" fill="none" stroke="#0a4d8f" stroke-miterlimit="10" stroke-width="4"/>
+    <rect id="Rectángulo_18642" data-name="Rectángulo 18642" width="286.642" height="67.583" rx="14.962" transform="translate(183.639 8172.417)" fill="url(#linear-gradient)"/>
+    <text id="Intermediarios" transform="translate(244.776 8194.566)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Intermediarios</tspan></text>
+    <rect id="Rectángulo_18643" data-name="Rectángulo 18643" width="286.642" height="69.736" rx="14.962" transform="translate(183.639 8359.701)" fill="url(#linear-gradient)"/>
+    <text id="Agentes_intermediarios" data-name="Agentes intermediarios" transform="translate(210.985 8379.862)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Agentes intermediarios</tspan></text>
+    <rect id="Rectángulo_18644" data-name="Rectángulo 18644" width="286.642" height="61.839" rx="14.962" transform="translate(183.639 8623.859)" fill="url(#linear-gradient)"/>
+    <text id="Logísticos_Outsourcing" data-name="Logísticos Outsourcing" transform="translate(210.985 8642.505)" fill="#fff" font-size="21" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="16">Logísticos Outsourcing</tspan></text>
+    <rect id="Rectángulo_18645" data-name="Rectángulo 18645" width="64.174" height="20.87" transform="translate(812.463 8397.983)" fill="#db6e5f"/>
+    <rect id="Rectángulo_18646" data-name="Rectángulo 18646" width="64.174" height="20.87" transform="translate(812.463 8367.723)" fill="#db6e5f"/>
+    <rect id="Rectángulo_18647" data-name="Rectángulo 18647" width="86.978" height="22.02" transform="translate(818.108 8431.022) rotate(-68.556)" fill="#db6e5f"/>
+  </g>
+</svg>
