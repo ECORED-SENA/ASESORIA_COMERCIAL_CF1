@@ -93,7 +93,7 @@
             .row
               .col-1
               .col-10
-                strong Auto incrementables
+                strong Autoincrementables
                 p Son campos numéricos enteros que incrementan en una unidad su valor para cada registro incorporado. Su utilidad resulta: servir de identificador ya que resultan exclusivos de un registro.       
         figure.mb-4
           img(src='@/assets/curso/tema1/img99.svg')
@@ -149,9 +149,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img10.svg')})`}"
           )
           .bloque-texto-g__texto.p-5(data-aos="fade-left")
-            p.mb-4 La denominación más completa de la estructura de una base de datos corresponde a cada uno de los elementos, formatos y normas que la integran y permiten su óptimo funcionamiento, permitiendo un almacenamiento eficiente de los datos, sin que estos se puedan perder durante la actuación del programa en el modo digital.
-            p.mb-4 Permiten almacenar, manipular y ordenar los datos, que son materia prima en cualquier sistema de información. 
-            p.mb-0 También admiten unas operaciones básicas: adicionar, realizar búsquedas, recorrer y eliminar datos. 
+            p.mb-4 La denominación más completa de la estructura de una base de datos corresponde a cada uno de los elementos, formatos y normas que la integran y permiten su óptimo funcionamiento, permitiendo un almacenamiento eficiente de los datos, sin que estos se puedan perder durante la actuación del programa en el modo digital. Permiten almacenar, manipular y ordenar los datos, que son materia prima en cualquier sistema de información. También admiten unas operaciones básicas: adicionar, realizar búsquedas, recorrer y eliminar datos. 
         p Las estructuras de bases de datos se pueden combinar de varias maneras para formar estructuras más complejas como:
 
     TabsC.color-primario.mb-5

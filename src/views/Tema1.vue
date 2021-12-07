@@ -43,7 +43,8 @@
             | Establecer el mejor precio para sus productos.
           li 
             i.fas.fa-star-half-alt
-            | Crear el mensaje de #[i marketing] adecuado.
+            p.mb-0 
+              | Crear el mensaje de #[i marketing] adecuado.
           li 
             i.fas.fa-star-half-alt
             | Aumentar la cantidad que satisface la demanda de sus clientes.
@@ -180,7 +181,7 @@
               .col-2.p-2
                 i.fas.fa-quote-left
               .col-8
-                .h5.mb-0 … cualquier bien que se ofrezca a un mercado para su atención, adquisición, uso o consumo, y que podría satisfacer un deseo o una necesidad Mientras que el servicio la define como la “actividad, beneficio o satisfacción que se ofrece por una venta, que básicamente es intangible y no tiene como resultado la posesión de algo (p. 224). 
+                .h5.mb-0 … cualquier bien que se ofrezca a un mercado para su atención, adquisición, uso o consumo, y que podría satisfacer un deseo o una necesidad. Mientras que el servicio la define como la “actividad, beneficio o satisfacción que se ofrece por una venta, que básicamente es intangible y no tiene como resultado la posesión de algo (p. 224). 
           .bloque-texto-d__autor
             i.fas.fa-quote-right
       .col-lg-10.mb-4
@@ -200,7 +201,7 @@
                 p.text-white Utilidad. 
               li 
                 i.fas.fa-star.text-white
-                p.text-white Empaque
+                p.text-white Empaque.
               li 
                 i.fas.fa-star.text-white
                 p.text-white Apariencia.
@@ -565,7 +566,7 @@
         p Refleja la información que circula dentro del canal. Los intermediarios facilitan la comunicación en ambos sentidos, eliminando el desconocimiento que supone la distancia geográfica entre fabricantes y consumidores. 
       .tarjeta.color-acento-contenido.p-3(x="88%" y="68%")
         .h5.mb-2 Flujo de Promoción
-        p Los consumidores finales realizan sus pedidos a los intermediarios y éstos a su vez a los fabricantes.
+        p Los consumidores finales realizan sus pedidos a los intermediarios y estos a su vez a los fabricantes.
 
     h4.mb-4 Participantes en el canal de distribución
     p.mb-4 En un canal de distribución intervienen los siguientes integrantes:
@@ -629,7 +630,8 @@
               | Canales de distribución para bienes y servicios de las empresas.
             li 
               i.fas.fa-star-half-alt
-              | Canales de distribución para mercadeo #[i online].
+              p.mb-0
+                | Canales de distribución para mercadeo #[i online].
             li 
               i.fas.fa-star-half-alt
               | Canales de distribución directa y multicanal.

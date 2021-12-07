@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Identificación de nichos de mercado',
     descripcionCurso:
-      'En este documento se comprenderá el mercadeo y sus componentes necesarios para desarrollar acciones en el mercado dirigidas a los consumidores de un producto o servicio. Igualmente, se entenderán los mercados y el proceso de cómo dividirlos en grupos de clientes potenciales. Por otro lado, se explorarán técnicas e instrumentos de recolección de datos para crear una base de datos.',
+      'En este componente formativo se comprenderá el mercadeo y sus componentes necesarios para desarrollar acciones en el mercado dirigidas a los consumidores de un producto o servicio. Igualmente, se entenderán los mercados y el proceso de cómo dividirlos en grupos de clientes potenciales. Por otro lado, se explorarán técnicas e instrumentos de recolección de datos para crear una base de datos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -44,7 +44,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Mercados',
+        titulo: 'Mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
